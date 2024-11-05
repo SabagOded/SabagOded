@@ -1,0 +1,3 @@
+cars: 10
+motorcycles: 5
+trucks: 3

@@ -1,0 +1,8 @@
+type: car, id: 123, entry time: 11:00
+type: motorcycle, id: 321, entry time: 11:00
+type: truck, id: 246, entry time: 11:00
+type: truck, id: 135, entry time: 11:00
+type: car, id: 999, entry time: 11:00
+type: car, id: 48, entry time: 11:00
+type: motorcycle, id: 745, entry time: 11:00
+type: motorcycle, id: 923, entry time: 11:00
